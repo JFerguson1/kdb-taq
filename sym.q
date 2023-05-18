@@ -1,4 +1,5 @@
-// schema.q
+/A capstone project comment
+// schema.q - file that has the table schemas
 // Quote Table Schema
 quote:([]time:`timestamp$();sym:`symbol$();bid:`float$();ask:`float$();bsize:`long$();asize:`long$());
 // trade Table Schema
